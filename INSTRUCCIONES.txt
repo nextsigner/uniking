@@ -1,0 +1,7 @@
+Ejecutar este módulo en QtCreator
+Mediante el External y el Keyboard
+
+Ctrl+Shift+Q
+
+Ejecutable: python3
+Argumentos: /home/ns/nsp/uniking/setParams.py /home/ns/nsp/uniking %{CurrentTime:HH-mm-ss} %{CurrentDocument:Path}
